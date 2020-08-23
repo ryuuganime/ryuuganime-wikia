@@ -1,0 +1,44 @@
+.ooui-theme-fandom .wds-community-header .wds-tabs .wds-tabs__tab-label {
+    color: white;
+}
+.ooui-theme-fandom .wds-community-header .wds-community-header__sitename a {
+    color: white;
+}
+.wds-community-header__counter-label {
+    display: block;
+    font-size: 12px;
+    line-height: 1;
+    margin-top: 3px;
+    text-transform: uppercase;
+    color: white;
+}
+.wds-community-header__counter-value {
+    display: block;
+    font-size: 24px;
+    line-height: 1;
+    color: white;
+}
+.wds-button-group {
+    align-items: stretch;
+    display: inline-flex;
+    justify-content: flex-start;
+    color: white;
+}
+.wds-community-header__wiki-buttons {
+    margin: 20px 20px auto 15px;
+    color: white;
+}
+.WikiaBarWrapper .toolbar .tools > li {
+    color: white;
+}
+
+.WikiaBarWrapper .toolbar .tools > li > a {
+    color: white;
+}
+
+.wds-icon-tiny {
+    height: 12px;
+    min-width: 12px;
+    width: 12px;
+    color: white;
+}
