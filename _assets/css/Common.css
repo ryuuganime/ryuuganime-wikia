@@ -4,6 +4,10 @@
 .ooui-theme-fandom .wds-community-header .wds-community-header__sitename a {
     color: white;
 }
+
+.ooui-theme-fandom .wds-community-header .wds-community-header__sitename a:hover {
+    color: white;
+}
 .wds-community-header__counter-label {
     display: block;
     font-size: 12px;
@@ -36,9 +40,17 @@
     color: white;
 }
 
-.wds-icon-tiny {
-    height: 12px;
-    min-width: 12px;
-    width: 12px;
-    color: white;
+.WikiaPage .page-header .wds-button {
+    color: #fff;
+    background: none;
 }
+
+.WikiaBarWrapper .toolbar .tools > li {
+    border-right: 1px solid #fff;
+}
+
+/* Borrowed from Animanga Wiki */
+.WikiaBarWrapper .arrow {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAKCAMAAAC+Ge+yAAAAaVBMVEX///8AAAAAAAAAAAD////9/f0AAAAAAAAAAABfX1/////6+vp+fn7////////9/f3///+bm5v///////////99fX319fX////8/Pz8/Pz///+5ubn9/f2dnZ38/Py4uLj///8AAAC2traxXVsaAAAAI3RSTlMAAAgNGLwSBxlKPrhXK1O2HGUCITZWFrC+thByu2S9cwUGc9YpLywAAABKSURBVHheHcZFAoQwAMDA1KijLqv/fySUXCaIQdyNPdoEqLcZm96hjv4HKq3RS+CrJi930EurZD419mjabF4W3KcxXQXg/sXniheVvgMct5vtUQAAAABJRU5ErkJggg==);
+}
+
