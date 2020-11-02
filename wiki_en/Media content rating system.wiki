@@ -1,0 +1,349 @@
+Media content rating systems are systems for evaluating the content and reporting the suitability of television programs and movies for children, teenagers, or adults. Many countries have their own rating system and countries' rating processes vary by local priorities. Programs are rated by the organization that manages the system, the broadcaster, or the content producers.
+
+== Comparison table ==
+A comparison of current media content rating systems, showing age on the horizontal axis. Note however that the specific criteria used in assigning a classification can vary widely from one country to another. Thus a color code or age range cannot be directly compared from one country to another.
+
+<!--#region keynote-->
+''Key:''
+<!-- THIS ARTICLE USES A COLOR-BLIND COMPLIANT COLOR SCHEME AS OUTLINED AT Category:Articles with images not understandable by color blind users. PLEASE DO NOT ALTER THE SCHEME WITHOUT FIRST CONSULTING THE GUIDELINES AT THE CATEGORY. -->
+* <span style="background:white; border:solid black 1px; color: black;">&nbsp;'''White'''&nbsp;</span> – ''No restrictions: Suitable for all ages / Aimed at young audiences / Exempt / Not rated / No applicable rating.''
+* <span style="background:yellow; border:solid black 1px; color: black;">&nbsp;'''Yellow'''&nbsp;</span> – ''No restrictions: Parental guidance is suggested for designated age range.''
+* <span style="background:purple; border:solid black 1px; color:white;">&nbsp;'''Purple'''&nbsp;</span> – ''No restrictions: Not recommended for a younger audience but not restricted.''
+* <span style="background:red; border:solid black 1px; color:white;">&nbsp;'''Red'''&nbsp;</span> – ''Restricted: Parental accompaniment required for younger audiences''.
+* <span style="background:black; border:solid black 1px; color: white;">&nbsp;'''Black'''&nbsp;</span> – ''Prohibitive: Exclusively for older audience / Restricted to a specific audience / Purchase age-restricted'' / Banned.
+<!--#endregion-->
+
+<!--#region table-->
+{|class="wikitable"
+!rowspan="2"|Regulator/System/Country
+!colspan="23"|Age
+! rowspan="2" |Other
+! rowspan="2" |Additional Note
+|-
+!0!!1!!2!!3!!4!!5!!6!!7!!8!!9!!10!!11!!12!!13!!14!!15!!16!!17!!18!!19!!20!!21!!≥22
+|-
+! style="text-align:left;" | Ryuuganime
+|colspan="2" style="background:white; color:black;"|G0+
+|colspan="5" style="background:yellow; color:black;"|PS2+
+|colspan="6" style="background:yellow; color:black;"|PG7+
+|colspan="5" style="background:red; color:white;"|PG13+
+|colspan="3" style="background:black; color:white;"|R18+
+|colspan="2" style="background:black; color:white;"|GU21+
+|N/A
+|<small>Although <span style="background:yellow; border:solid black 1px; color: black;">&nbsp;'''PS2+'''&nbsp;</span> Rating is available, <span style="background:white; border:solid black 1px; color: black;">&nbsp;'''G0+'''&nbsp;</span> is more common to use by system.</small>
+|-
+! rowspan="2" style="text-align:left;" | MyAnimeList
+| colspan="7" rowspan="2" style="background:white; color:black;" |G
+| colspan="6" rowspan="2" style="background:yellow; color:black;" |PG
+| colspan="4" rowspan="2" style="background:yellow; color:black;" |PG-13
+| colspan="4" style="background:black; color:white;" |R
+| colspan="2" rowspan="2" style="background:black; color:white;" |Rx
+| rowspan="2" |N/A
+| rowspan="2" |<small>'''R+''' - Mild Nudity (may also contain violence & profanity)</small>
+<small>'''Rx''' - Hentai (extreme sexual content/nudity)</small>
+
+<small>Based on [https://myanimelist.net/forum/?topicid=16816 forum discussion]</small>
+|-
+| colspan="4" style="background:black; color:white;"|R+
+|-
+! rowspan="2" style="text-align:left;" |BestAnime (<span lang="ko" dir="ltr">베스트애니메</span>)
+| colspan="13" rowspan="2" style="background:white; color:black;"|BA-7
+| colspan="4" rowspan="2" style="background:yellow; color:black;"|BA-13
+| colspan="4" rowspan="2" style="background:black; color:white;"|BA-17
+| colspan="2" style="background:black; color:white;"|BA-R
+| rowspan="2" |N/A
+| rowspan="2" |<small>Deprecated site</small>
+|-
+| colspan="2" style="background:black; color:white;"|BA-X
+|-
+! style="text-align:left;" | Japan
+| colspan="12" style="background:white; color:black;"|G
+| colspan="3" style="background:red; color:white;"|PG12+
+| colspan="3" style="background:black; color:white;"|PG15+
+| colspan="5" style="background:black; color:white;"|R18+
+|N/A
+|N/A
+|-
+! style="text-align:left;" | Hong Kong
+| colspan="7" style="background:white; color:black;"|I
+| colspan="6" style="background:black; color:white;"|IIA
+| colspan="5" style="background:black; color:white;"|IIB
+| colspan="5" style="background:black; color:white;"|III
+|N/A
+|N/A
+|-
+! style="text-align:left;" rowspan="2" |Taiwan
+| colspan="6" rowspan="2" style="background:white; color:black;" |0+
+| colspan="6" style="background:black; color:white;"|6+
+| colspan="3" rowspan="2" style="background:black; color:white;"|12+
+| colspan="3" rowspan="2" style="background:black; color:white;"|15+
+| colspan="5" rowspan="2" style="background:black; color:white;"|18+
+| rowspan="2" |N/A
+| rowspan="2" |N/A
+|-
+| colspan="6" style="background:red; color:white;"|6+
+|-
+! style="text-align:left;" rowspan="2" |South Korea
+| colspan="7" rowspan="2" style="background:white; color:black;"|ALL
+| colspan="5" style="background:black; color:white;"|7
+| colspan="3" rowspan="2" style="background:black; color:white;"|12
+| colspan="4" rowspan="2" style="background:black; color:white;"|15
+| colspan="4" rowspan="2" style="background:black; color:white;"|19
+| rowspan="2" |N/A
+| rowspan="2" |N/A
+|-
+| colspan="5" style="background:red; color:white;"|7
+|-
+! style="text-align:left;" | United States (Movie)
+| colspan="3" style="background:white; color:black;"|G
+| colspan="10" style="background:yellow; color:black;"|PG
+| colspan="4" style="background:red; color:white;"|PG-13
+| style="background:red; color:white;"|R
+| colspan="5" style="background:black; color:white;"|NC-17
+|N/A
+|N/A
+|-
+! style="text-align:left;" rowspan="3" |United States (Television)
+| colspan="14" style="background:white; color:black;"|TV-G
+| colspan="3" rowspan="3" style="background:purple; color:white;"|TV-14
+| colspan="6" rowspan="3" style="background:purple; color:white;"|TV-MA
+| rowspan="3" |N/A
+| rowspan="3" |N/A
+|-
+| colspan="14" style="background:yellow; color:black;"|TV-PG
+|-
+| colspan="7" style="background:white; color:black;"|TV-Y
+| colspan="7" style="background:white; color:black;"|TV-Y7
+|-
+! style="text-align:left;" | Indonesia (Movie)
+| colspan="13" style="background:white; color:black;"|SU
+| colspan="4" style="background:black; color:white;"|13
+| colspan="4" style="background:black; color:white;"|17
+| colspan="2" style="background:black; color:white;"|21
+|N/A
+|N/A
+|-
+! style="text-align:left;" rowspan="2" |Indonesia (Television)
+| colspan="2" rowspan="2" style="background:white; color:black;"|N/A
+| colspan="5" style="background:white; color:black;"|SU2+
+| colspan="6" rowspan="2" style="background:yellow; color:black;"|A7+
+| colspan="5" rowspan="2" style="background:yellow; color:black;"|R13+
+| colspan="5" rowspan="2" style="background:purple; color:white;"|D18+
+| rowspan="2" |N/A
+| rowspan="2" |N/A
+|-
+| colspan="5" style="background:white; color:black;"|P2+
+|-
+! style="text-align:left;" | Philippines (Movie)
+| colspan="13" style="background:white; color:black;"|G
+| colspan="3" style="background:black; color:white;"|PG-13
+| colspan="2" style="background:black; color:white;"|R-16
+| colspan="5" style="background:black; color:white;"|R-18
+|style="background:black; color:white;"|X
+|<small>X-rated films are not suitable for public exhibition.</small>
+|-
+! style="text-align:left;" rowspan="2" |Philippines (Television)
+| colspan="13" style="background:white; color:black;"|G
+| colspan="10" rowspan="2" style="background:red; color:white;"|SPG
+| rowspan="2" |N/A
+| rowspan="2" |N/A
+|-
+| colspan="13" style="background:yellow; color:black;"|PG
+|-
+! style="text-align:left;" | Malaysia
+| colspan="13" style="background:white; color:black;"|U
+| colspan="5" style="background:red; color:white;"|P13
+| colspan="5" style="background:black; color:white;"|18
+|N/A
+|N/A
+|-
+! style="text-align:left;" rowspan="2" |Singapore
+| colspan="13" style="background:white; color:black;"|G
+| colspan="3" rowspan="2" style="background:purple; color:white;"|PG13
+| colspan="2" rowspan="2" style="background:black; color:white;"|NC16
+| colspan="3" rowspan="2" style="background:black; color:white;"|M18
+| colspan="2" rowspan="2" style="background:black; color:white;"|R21
+| rowspan="2" |N/A
+| rowspan="2" |N/A
+|-
+| colspan="13" style="background:yellow; color:black;"|PG
+|-
+! rowspan="2" |Regulator/System/Country
+!0!!1!!2!!3!!4!!5!!6!!7!!8!!9!!10!!11!!12!!13!!14!!15!!16!!17!!18!!19!!20!!21!!≥22
+! rowspan="2" |Other
+! rowspan="2" |Additional Note
+|-
+! colspan="23" |Ages
+|}
+<!--#endregion-->
+
+== Usage ==
+=== Ryuuganime ===
+:''Main article: [[Content rating guidelines]]''
+The rating system used by Ryuuganime is an artificial rating that refers to Indonesia and the United States rating system with some classifications taken from South Korea rating rules.
+
+In the current system there are six rating categories:
+*[[G0+|<span style="background:white; border:solid black 1px; color: black;">&nbsp;'''G0+'''&nbsp;</span>]]: ''General — Suitable for all ages''
+*[[PS2+|<span style="background:yellow; border:solid black 1px; color: black;">&nbsp;'''PS2+'''&nbsp;</span>]]: ''Preschool - Suitable for 2 years old up to 6''
+*[[PG7+|<span style="background:yellow; border:solid black 1px; color: black;">&nbsp;'''PG7+'''&nbsp;</span>]]: ''Parental Guidance — Suitable for 7 years old up to 12''
+*:Parental guidance is suggested for designated age range.
+*[[PG13+|<span style="background:red; border:solid black 1px; color: white;">&nbsp;'''PG13+'''&nbsp;</span>]]: ''Parental Guidance — for 13 years old up to 17.''
+*:Parental accompaniment required for younger audiences
+*[[R18+|<span style="background:black; border:solid black 1px; color: white;">&nbsp;'''R18+'''&nbsp;</span>]]: ''Restricted — restricted for audience below 18 years old up to 20.''
+*[[GU21+|<span style="background:black; border:solid black 1px; color: white;">&nbsp;'''R18+'''&nbsp;</span>]]: ''Grown-Up — restricted for audience below 21 years old or older.''
+=== MyAnimeList ===
+
+=== Japan ===
+
+=== Hong Kong ===
+
+=== Taiwan ===
+
+=== South Korea ===
+
+=== United States ===
+==== Movie ====
+
+==== Television ====
+
+=== Indonesia ===
+==== Movie ====
+
+==== Television ====
+
+=== Philippines ===
+==== Movie ====
+
+==== Television ====
+
+=== Malaysia ===
+
+=== Singapore ===
+
+== Comparison to Ryuuganime rating system ==
+The following is a conversion table to the Ryuuganime rating system. Note that the usage of this table is '''not''' for converting to Ryuuganime rating system. Please refer to [[Content rating guidelines]] for convert rating system.
+
+<!--#region compare-->
+{| class="wikitable"
+!rowspan="2"|Regulator/System/Country
+!colspan="6"|Ryuuganime ratings
+|-
+!G0+
+!PS2+
+!PG7+
+!PG13+
+!R18+
+!GU21+
+|-
+! rowspan="2" |MyAnimeList
+| colspan="2" rowspan="2" |G
+| rowspan="2" |PG
+| rowspan="2" |PG-13
+|R
+| rowspan="2" |Rx
+|-
+|R+
+|-
+! rowspan="2" |BestAnime
+| colspan="3" rowspan="2" |BA-7
+| rowspan="2" |BA-13
+| rowspan="2" |BA-17
+|BA-R
+|-
+|BA-X
+|-
+! rowspan="2" |Japan
+| colspan="3" rowspan="2" |G
+|PG12+
+| colspan="2" rowspan="2" |R18+
+|-
+|PG15+
+|-
+!Hong Kong
+| colspan="2" |I
+|IIA
+|IIB
+| colspan="2" |III
+|-
+! rowspan="2" |Taiwan
+| colspan="2" rowspan="2" |0+
+| rowspan="2" |6+
+|12+
+| colspan="2" rowspan="2" |18+
+|-
+|15+
+|-
+! rowspan="2" |South Korea
+| colspan="2" rowspan="2" |ALL
+| rowspan="2" |7
+|12
+| colspan="2" rowspan="2" |19
+|-
+|15
+|-
+!United States (Movie)
+| colspan="2" |G
+|PG
+|PG-13
+|R
+|NC-17
+|-
+! rowspan="2" |United States (Television)
+| rowspan="2" |TV-G
+| rowspan="2" |TV-Y
+|TV-PG
+| rowspan="2" |TV-14
+| colspan="2" rowspan="2" |TV-MA
+|-
+|TV-Y7
+|-
+!Indonesia (Movie)
+| colspan="3" |SU
+|13
+|17
+|21
+|-
+!Indonesia (Television)
+|SU2+
+|P2+
+|A7+
+|R13+
+| colspan="2" |D18+
+|-
+! rowspan="2" |Philippines (Movie)
+| colspan="3" rowspan="2" |G
+| rowspan="2" |PG-13
+| colspan="2" |R-18
+|-
+| colspan="2" |R-16
+|-
+!Philippines (Television)
+| colspan="2" |G
+| colspan="2" |PG
+| colspan="2" |SPG
+|-
+!Malaysia
+| colspan="3" |U
+|P13
+| colspan="2" |18
+|-
+! rowspan="2" |Singapore
+| colspan="2" rowspan="2" |G
+| rowspan="2" |PG
+| rowspan="2" |PG13
+|M18
+| rowspan="2" |R21
+|-
+|NC16
+|-
+! rowspan="2" |Regulator/System/Country
+!G0+
+!PS2+
+!PG7+
+!PG13+
+!R18+
+!GU21+
+|-
+! colspan="6" |Ryuuganime ratings
+|}
+<!--#endregion-->
